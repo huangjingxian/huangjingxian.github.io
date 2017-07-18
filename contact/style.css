@@ -305,8 +305,7 @@ ul,ol         { list-style:none; }
 .contact_section{
 	/*background: none repeat scroll 0 0 #000000;*/
 	background: url("images/ba.jpg") repeat scroll center center / cover  rgba(0, 0, 0, 0);
-	overflow: hidden;
-	color: #fff;
+	
 }
 .contact_head{
 	padding: 80px 0 30px;
